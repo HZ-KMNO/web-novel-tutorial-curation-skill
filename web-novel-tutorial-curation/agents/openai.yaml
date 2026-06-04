@@ -1,4 +1,4 @@
 interface:
   display_name: "Web Novel Tutorial Curation"
-  short_description: "Extract, summarize, classify, validate, and integrate fiction-writing tutorials for AI agents."
-  default_prompt: "Use $web-novel-tutorial-curation to extract and summarize this writing tutorial source into an AI-usable knowledge library."
+  short_description: "Extract, summarize, classify, validate, and integrate fiction-writing tutorials and novel case libraries for AI agents."
+  default_prompt: "Use $web-novel-tutorial-curation to extract and summarize this writing tutorial or novel case source into an AI-usable knowledge library."

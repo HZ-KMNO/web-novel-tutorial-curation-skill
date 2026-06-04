@@ -148,6 +148,63 @@ Keep JSON machine-readable:
 - Stable field names.
 - No full copyrighted body text unless explicitly allowed.
 
+## Case Library Layout
+
+Use this structure when the source is a folder of novels, EPUB fiction, benchmark works, or excellent-fiction examples:
+
+```text
+CaseLibrary/
+├─ 00_Overview.md
+├─ 01_Case_Index.md
+├─ 02_Craft_Patterns.md
+├─ 03_AI_Usage_Map.md
+└─ case_index.json
+```
+
+Recommended case-index columns:
+
+```markdown
+| # | File | Title | Author/Creator | Type | Language | Status | Primary Craft Value | Best Used For | Imitation Risk |
+|---:|---|---|---|---|---|---|---|---|---|
+```
+
+Recommended JSON fields:
+
+```json
+{
+  "source_name": "string",
+  "source_path_or_url": "string",
+  "extraction_date": "YYYY-MM-DD",
+  "scope": "string",
+  "case_count": 0,
+  "case_status_counts": {},
+  "craft_patterns": {},
+  "cases": [
+    {
+      "id": "string",
+      "file_name": "string",
+      "file_type": "epub",
+      "title": "string",
+      "author_or_creator": "string",
+      "translator_or_editor": "string",
+      "language": "string",
+      "file_size": 0,
+      "case_status": "metadata_only",
+      "primary_case_type": "string",
+      "secondary_tags": [],
+      "craft_summary": "string",
+      "transferable_lessons": [],
+      "best_used_for": [],
+      "risks_when_imitating": [],
+      "copyright_note": "string",
+      "limitations": "string"
+    }
+  ]
+}
+```
+
+Case-library outputs should emphasize reusable craft mechanisms, not plot retellings or style imitation.
+
 ## Master File Update Snippet
 
 When updating a project guide or agent prompt, add a compact source entry:
@@ -162,6 +219,7 @@ Files:
 Best used for:
 Limitations:
 Relationship to other sources:
+Source type: tutorial library, platform article library, excellent-novel case library, or mixed source.
 ```
 
 Example use-case language:

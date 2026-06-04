@@ -67,12 +67,14 @@ Pass when:
 - Full original bodies are not copied by default.
 - Long examples are paraphrased into principles.
 - Any quoted text is short and necessary.
+- Finished-fiction case libraries store metadata, craft analysis, and transferable lessons instead of full chapters, scenes, or distinctive prose imitation.
 
 Failure signs:
 
 - Local output is a full mirror of the tutorial site.
 - Summaries reproduce entire paragraphs.
 - README advertises copied course content rather than a curated index.
+- Case-library notes become plot retellings or "write like this author" instructions without imitation guardrails.
 
 Fix:
 
@@ -87,12 +89,14 @@ Pass when:
 - Tags are specific enough to guide AI use.
 - Summaries mention the writing problem and application stage.
 - Several samples from different pages/categories make sense.
+- For excellent-novel cases, each record identifies craft value, best-used-for writing tasks, and risks when imitating.
 
 Failure signs:
 
 - One broad tag appears on almost every item.
 - Tags are triggered by boilerplate words.
 - Summaries are generic and interchangeable.
+- Every case gets vague praise tags such as `classic`, `famous`, or `good_story` without operational craft use.
 
 Fix:
 
@@ -131,6 +135,7 @@ Pass when:
 - Source registry is updated.
 - Prompt files mention the new source.
 - Skills or agent instructions mention when to use it.
+- Case libraries are identified as a distinct source type from tutorials.
 - Generic files contain no project-specific leftovers.
 - Old typos and stale paths found during the update are fixed.
 

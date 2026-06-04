@@ -1,13 +1,13 @@
 ---
 name: web-novel-tutorial-curation
-description: Use this skill when an AI agent must extract, summarize, classify, validate, and integrate web-novel or fiction-writing tutorial materials from websites, documents, or local folders into reusable knowledge files. It is designed for Chinese web novel / online fiction workflows, but the extraction and quality-control process is general enough for any AI agent handling writing-course curation.
+description: Use this skill when an AI agent must extract, summarize, classify, validate, and integrate web-novel or fiction-writing tutorial materials, platform articles, author lessons, local writing folders, EPUB/PDF/DOCX resources, or excellent-novel case libraries into reusable AI knowledge files. It is designed for Chinese web novel / online fiction workflows, but the extraction, case-analysis, and quality-control process is general enough for any AI agent handling fiction-writing source curation.
 ---
 
 # Web Novel Tutorial Curation
 
-Use this skill when the task is to turn writing tutorials, author lessons, platform articles, course pages, videos, PDFs, EPUBs, or local notes into a clean AI-usable knowledge base for web-novel / fiction writing.
+Use this skill when the task is to turn writing tutorials, author lessons, platform articles, course pages, videos, PDFs, EPUBs, local notes, or excellent novel examples into a clean AI-usable knowledge base for web-novel / fiction writing.
 
-The goal is not to copy tutorials. The goal is to produce structured, searchable, source-linked craft knowledge that future AI agents can use while planning, drafting, revising, and polishing fiction.
+The goal is not to copy tutorials or novels. The goal is to produce structured, searchable, source-linked craft knowledge that future AI agents can use while planning, drafting, revising, and polishing fiction.
 
 ## Core Rule
 
@@ -27,6 +27,7 @@ Do not merge these phases casually. Most mistakes happen when an agent scrapes f
    - Page range, filters, sort order, categories, or file types.
    - Output folder.
    - Whether to update existing master prompts, skills, or project guides.
+   - Whether the source is instructional material, finished-fiction case material, or a mixed library.
 
 2. **Discover the data surface**
    - Inspect the page in a browser if needed.
@@ -48,9 +49,11 @@ Do not merge these phases casually. Most mistakes happen when an agent scrapes f
 
 5. **Summarize without copying**
    - Do not store full copyrighted article bodies unless the user explicitly owns the source and asks for it.
-   - Save concise summaries, key lessons, tags, use cases, and original links.
+   - Do not store full novel text when processing excellent-fiction case libraries.
+   - Save concise summaries, key lessons, case mechanisms, tags, use cases, and original links or source metadata.
    - Keep short headings or metadata only when useful.
    - Convert examples into general principles rather than reproducing long original passages.
+   - For finished-fiction cases, analyze reader promise, conflict system, character pressure, information control, structure, style, and ending logic instead of writing plot reports.
 
 6. **Classify for AI use**
    - Classify by source category/column.
@@ -73,6 +76,7 @@ Do not merge these phases casually. Most mistakes happen when an agent scrapes f
 
 - Read [references/extraction-workflow.md](references/extraction-workflow.md) for the full extraction and integration process.
 - Read [references/output-templates.md](references/output-templates.md) when creating Markdown or JSON outputs.
+- Read [references/case-library-analysis.md](references/case-library-analysis.md) when processing folders of novels, EPUB fiction, benchmark works, or other excellent-novel examples.
 - Read [references/quality-gates.md](references/quality-gates.md) before finalizing or when the output seems noisy, over-tagged, stale, or inconsistent.
 
 ## Output Standard
@@ -104,11 +108,14 @@ usable_experience
 limitations
 ```
 
+For excellent-novel case libraries, each case record should include title, author/creator, file type, language, parsing status, primary craft value, transferable lessons, best-used-for writing tasks, imitation risks, copyright note, and limitations. See [references/case-library-analysis.md](references/case-library-analysis.md).
+
 ## Common Mistakes To Avoid
 
 - Treating rendered page text as the only source without checking APIs or server HTML.
 - Assuming all detail pages share the same template.
 - Storing full copyrighted tutorials when summaries are enough.
+- Treating finished novels as tutorials or copying their prose instead of extracting transferable craft mechanisms.
 - Letting broad keywords create bad tags.
 - Updating master prompts before validating extracted files.
 - Leaving project-specific material inside a generic skill or prompt.

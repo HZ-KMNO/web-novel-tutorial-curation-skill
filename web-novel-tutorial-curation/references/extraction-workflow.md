@@ -1,6 +1,6 @@
 # Extraction Workflow
 
-Use this workflow for websites, local folders, PDFs, EPUBs, DOCX files, videos with transcripts, or mixed tutorial libraries.
+Use this workflow for websites, local folders, PDFs, EPUBs, DOCX files, videos with transcripts, mixed tutorial libraries, or excellent-fiction case libraries.
 
 ## 1. Scope Contract
 
@@ -11,6 +11,7 @@ Before touching files, identify:
 - Desired output folder.
 - Output type: summary library, raw archive, skill, prompt injection, or project guide.
 - Integration target: master docs, skills, prompts, README, or no integration.
+- Source nature: instructional tutorial, platform article library, finished-fiction case library, or mixed source.
 
 If the request is clear enough, proceed. If not, ask one focused question.
 
@@ -29,6 +30,7 @@ For local files:
 - Group by type and folder.
 - Use structured parsers for DOCX, EPUB, PDF, HTML, or JSON where possible.
 - Avoid converting all files to giant context. Process and summarize in code.
+- If the source is a folder of excellent novels or fiction examples, treat it as a case library. Parse metadata first, then analyze craft patterns through targeted sampling or known high-level case knowledge. Do not copy full text.
 
 ## 3. List Extraction
 
@@ -75,6 +77,13 @@ For each item:
 
 Do not assume template uniformity. A tutorial site may mix articles, videos, images, redirects, old templates, and external links.
 
+For finished-fiction case files:
+
+- Extract metadata before any text sampling.
+- Record `case_status` separately from article `content_status`.
+- Prefer short, targeted samples for opening, turning points, ending, or motif structure when analysis requires text evidence.
+- Store analysis, not raw chapters.
+
 ## 5. Summarization Strategy
 
 Summarize from title, category, list description, headings, and body text.
@@ -86,12 +95,21 @@ Good summaries answer:
 - What concrete check or action does it suggest?
 - What risk does it help avoid?
 
+For excellent-novel cases, good summaries answer:
+
+- What reader promise does the work establish?
+- What conflict system or pressure pattern makes the story durable?
+- How does it control information, escalation, motifs, and ending payoff?
+- Which writing task should a future AI use this case for?
+- What should the AI avoid imitating directly?
+
 Avoid:
 
 - Long quotations.
 - Full article reproduction.
 - Generic summaries that could apply to any article.
 - Copying examples from the original source.
+- Plot summaries that do not become writing operations.
 
 ## 6. Classification Strategy
 
@@ -125,6 +143,23 @@ de_ai_polish
 
 Keep tag matching narrow. If broad keywords over-tag the library, inspect samples and revise the rules.
 
+Additional case-library tags:
+
+```text
+dystopian_system
+political_allegory
+hard_sci_fi_escalation
+coming_of_age_fantasy
+trauma_realism
+family_fate_tragedy
+mystery_suspense
+magical_realism_structure
+detective_case_serial
+historical_romance_epic
+voice_style
+ending_payoff
+```
+
 ## 7. Integration
 
 Only integrate after validation.
@@ -139,6 +174,7 @@ Update master files with:
 - Use cases.
 - Limitations.
 - Which existing source this complements.
+- Whether this source is tutorial guidance or case-library evidence.
 
 When creating a generic skill or prompt, remove project-specific details and local one-off history.
 

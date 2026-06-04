@@ -2,9 +2,9 @@
 
 ![Web Novel Tutorial Curation logo](assets/logo.png)
 
-A reusable AI-agent skill for extracting, summarizing, classifying, validating, and integrating web-novel / fiction-writing tutorial materials into clean knowledge libraries.
+A reusable AI-agent skill for extracting, summarizing, classifying, validating, and integrating web-novel / fiction-writing tutorial materials and excellent-novel case libraries into clean knowledge libraries.
 
-This repository contains a portable `SKILL.md` package designed for AI agents that work with Chinese web-novel, online fiction, genre fiction, and long-form serial-writing resources. The workflow is also useful for any agent that must process tutorial websites, writing-course pages, local documents, or mixed source folders without copying raw copyrighted material.
+This repository contains a portable `SKILL.md` package designed for AI agents that work with Chinese web-novel, online fiction, genre fiction, and long-form serial-writing resources. The workflow is also useful for any agent that must process tutorial websites, writing-course pages, local documents, EPUB/PDF/DOCX resources, or folders of benchmark fiction cases without copying raw copyrighted material.
 
 ## What This Skill Solves
 
@@ -13,6 +13,7 @@ AI agents often make avoidable mistakes when processing tutorial sources:
 - scraping only visible page text while missing APIs or server-rendered data;
 - assuming all article detail pages share one template;
 - copying full tutorial bodies instead of producing reusable summaries;
+- treating finished novels as tutorials and producing plot reports instead of reusable craft analysis;
 - using broad keyword tags that classify almost every article incorrectly;
 - updating master prompts or skills before validating counts and files;
 - leaving project-specific details inside generic agent instructions;
@@ -27,6 +28,7 @@ This skill turns those lessons into a repeatable workflow.
 - Deduplicate by stable IDs or canonical URLs.
 - Detect low-text, image-only, video-only, blocked, or changed-template pages.
 - Summarize tutorials into writing principles, not copied articles.
+- Analyze excellent-novel case libraries for reader promise, conflict systems, structure, character pressure, suspense, style, and ending payoff.
 - Build Markdown and JSON knowledge libraries.
 - Classify materials by source category and writing task.
 - Validate counts, JSON parsing, encodings, links, tags, and master-file integration.
@@ -48,6 +50,7 @@ This skill turns those lessons into a repeatable workflow.
    └─ references/
       ├─ extraction-workflow.md
       ├─ output-templates.md
+      ├─ case-library-analysis.md
       └─ quality-gates.md
 ```
 
@@ -61,6 +64,7 @@ Use this skill when an AI agent is asked to:
 - summarize fiction-writing courses into a reusable knowledge base;
 - process the first N pages of a tutorial list;
 - classify author interviews, platform lessons, or genre guides;
+- summarize a folder of excellent novels or EPUB fiction cases into transferable craft lessons;
 - build a local folder of Markdown and JSON summaries;
 - update master AI prompts or existing writing skills with a new source;
 - validate that extraction results are complete and not stale.
@@ -105,6 +109,13 @@ Recommended output stores:
 - operational writing advice.
 
 It does not recommend storing full original article bodies by default.
+For finished-fiction case libraries, it also avoids storing full chapters, scenes, or distinctive prose imitation.
+
+## Novel Case Libraries
+
+When the source is a folder of novels or benchmark fiction cases, the skill treats it as case evidence rather than tutorial content. It recommends extracting metadata first, then summarizing craft mechanisms such as opening promises, protagonist pressure, conflict systems, information control, motif use, escalation rhythm, prose texture, and ending payoff.
+
+See [case-library-analysis.md](web-novel-tutorial-curation/references/case-library-analysis.md) for the dedicated workflow.
 
 ## Installation
 
@@ -124,6 +135,10 @@ web-novel-tutorial-curation/SKILL.md
 
 ```text
 Use $web-novel-tutorial-curation to extract the first 20 pages of this fiction-writing tutorial list, summarize all articles into Markdown and JSON, validate the counts, and update my master writing-agent prompt with the new source.
+```
+
+```text
+Use $web-novel-tutorial-curation to summarize this folder of excellent novel EPUBs as a case library. Build a metadata index, classify each work by craft value, extract transferable writing lessons, note imitation risks, and update my writing-agent source registry.
 ```
 
 ## Quality Gates
