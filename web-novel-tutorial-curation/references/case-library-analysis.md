@@ -92,6 +92,8 @@ When a folder contains a broad set of famous novels or benchmark fiction cases, 
 
 This kind of summary is usually more useful to AI writers than a title-by-title book report.
 
+For expanded or repeatedly updated case folders, read [excellent-novel-case-corpus-patterns.md](excellent-novel-case-corpus-patterns.md). That reference shows how to integrate newly added EPUB batches, including mixed fiction, essay, social-science, historical, and detective-case sources, while preserving metadata and craft use without copying text.
+
 ## Output Fields For Case Records
 
 Each case record should include:

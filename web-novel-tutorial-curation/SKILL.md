@@ -77,6 +77,7 @@ Do not merge these phases casually. Most mistakes happen when an agent scrapes f
 - Read [references/extraction-workflow.md](references/extraction-workflow.md) for the full extraction and integration process.
 - Read [references/output-templates.md](references/output-templates.md) when creating Markdown or JSON outputs.
 - Read [references/case-library-analysis.md](references/case-library-analysis.md) when processing folders of novels, EPUB fiction, benchmark works, or other excellent-novel examples.
+- Read [references/excellent-novel-case-corpus-patterns.md](references/excellent-novel-case-corpus-patterns.md) when adding newly observed excellent-novel EPUB batches into a skill or when the case library mixes fiction, essays, social science, history, and detective collections.
 - Read [references/quality-gates.md](references/quality-gates.md) before finalizing or when the output seems noisy, over-tagged, stale, or inconsistent.
 
 ## Output Standard

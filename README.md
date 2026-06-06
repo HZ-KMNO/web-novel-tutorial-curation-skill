@@ -51,6 +51,7 @@
       ├─ extraction-workflow.md
       ├─ output-templates.md
       ├─ case-library-analysis.md
+      ├─ excellent-novel-case-corpus-patterns.md
       └─ quality-gates.md
 ```
 

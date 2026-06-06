@@ -196,6 +196,7 @@ web-novel-tutorial-curation/SKILL.md
       ├─ extraction-workflow.md
       ├─ output-templates.md
       ├─ case-library-analysis.md
+      ├─ excellent-novel-case-corpus-patterns.md
       └─ quality-gates.md
 ```
 
