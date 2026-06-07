@@ -2,17 +2,39 @@
 
 Use this reference when an AI agent must add newly observed excellent-novel case files into a writing-source skill, summarize a growing EPUB case folder, or convert a mixed literary/social-science corpus into reusable fiction-writing methods.
 
-This file is an example corpus-pattern layer, not a raw archive. It records metadata-level inventory and transferable craft use only. Do not copy original book text, plot solutions, distinctive prose, or long passages.
+This file is a corpus-pattern layer, not a raw archive. It records metadata-level inventory and transferable craft use only. Do not copy original book text, plot solutions, distinctive prose, or long passages.
 
 ## Corpus Snapshot
 
 Source type: excellent-novel / finished-book case library.
 
-Latest observed local batch: 2026-06-06.
+Latest observed local batch: 2026-06-07.
 
-Observed library size after this batch: 30 EPUB files.
+Observed library size after this batch: 40 EPUB files.
 
 New batch size: 10 EPUB files.
+
+Current observed batch sequence:
+
+- 2026-06-04: 10 EPUB files.
+- 2026-06-05: 10 EPUB files.
+- 2026-06-06: 10 EPUB files.
+- 2026-06-07: 10 EPUB files.
+
+## 2026-06-07 Added Case Batch
+
+| Title | Creator | Language | Size | Primary Case Value | Best Used For |
+|---|---|---|---:|---|---|
+| 围城 | 钱锺书 | zh | 782368 | social satire, intellectual comedy, marriage-as-pressure structure | ironic voice calibration, relationship traps, social-room conflict |
+| 平凡的世界 | 路遥 | zh | 1387025 | long-span ordinary-person growth under era and class pressure | long-serial realism, labor/ambition arcs, family and village-city contrast |
+| 城南旧事 | 林海音 | zh | 171812 | child-perspective memory and gentle loss | nostalgic narration, limited viewpoint, soft emotional foreshadowing |
+| 江城 | 彼得·海斯勒 | zh | 1537587 | outsider observation of place, language, and everyday social change | travel/settlement viewpoint, local detail gathering, documentary texture |
+| 基督山伯爵 | 大仲马 | zh | 1658904 | revenge epic, identity disguise, delayed payoff architecture |爽文 revenge arcs, resource accumulation, enemy-web payoff, identity reveals |
+| 万历十五年 | 黄仁宇 | zh | 8485601 | institutional history through representative figures and system failure | political worldbuilding, court/faction logic, macro-pressure behind personal choices |
+| 霍乱时期的爱情 | 加西亚·马尔克斯 | zh | 636646 | lifelong desire, emotional obsession, time-shaped romance | long romance arcs, desire persistence, aging, memory and distance |
+| 红楼梦 | 曹雪芹等 | zh | 3272755 | household ecology, desire networks, foreshadowing, decline structure | ensemble casts, family-house systems, symbolic motifs, long-form tragedy |
+| 三国演义 | 罗贯中 | zh | 10549552 | faction strategy, heroic set pieces, alliance/betrayal cycles | war arcs, faction chess, strategist characters, large-cast momentum |
+| 四世同堂 | 老舍 | zh | 1859272 | occupied-city family epic and everyday moral pressure | family-under-crisis arcs, neighborhood systems, dignity under oppression |
 
 ## 2026-06-06 Added Case Batch
 
@@ -20,7 +42,7 @@ New batch size: 10 EPUB files.
 |---|---|---|---:|---|---|
 | 乡土中国 | 费孝通 | zh-CN | 7287523 | rural social structure and relation-based order | village/worldbuilding rules, clan networks, local power logic |
 | 局外人 | 阿尔贝·加缪 | zh | 1184241 | outsider consciousness and social judgment | alienated protagonists, courtroom/social pressure, restrained voice |
-| 彷徨 | 鲁迅 | zh | 1515885 | hesitation under collapsing old/new orders | stuck characters, social malaise, modern Chinese realist pressure |
+| 彷徨 | 鲁迅 | zh | 1515885 | hesitation under collapsing old/new orders | stuck characters, social malaise, modern realist pressure |
 | 悉达多 | 赫尔曼·黑塞 | zh | 190814 | staged spiritual quest and self-recognition | inner arcs, teacher/encounter structure, non-sermonic transformation |
 | 我与地坛 | 史铁生 | zh | 580379 | place-anchored memory and life reflection | reflective narration, place as emotional engine, grief and recovery |
 | 白鹿原 | 陈忠实 | zh-CN | 3258966 | land-clan-history epic | family village epics, social change, land/desire/institution conflict |
@@ -29,148 +51,247 @@ New batch size: 10 EPUB files.
 | 钱穆国学作品集 | 钱穆 | zh | 22737950 | historical institutions and civilizational logic | institutional worldbuilding, political logic, historical background conversion |
 | 阿加莎·克里斯蒂侦探小说大全集 | 阿加莎·克里斯蒂 | zh | 27826915 | fair-play puzzle and suspect-web design | mystery units, clue placement, misdirection, closed-circle social conflict |
 
+## Earlier Observed Corpus
+
+The first two local batches already establish the base case library. They should be treated as prior corpus material and not re-added as new cases.
+
+2026-06-04 observed examples include: 活着, 1984, 哈利波特全集, 三体, 百年孤独, 飘, 房思琪的初恋乐园, 动物农场, 白夜行, 福尔摩斯探案全集.
+
+2026-06-05 observed examples include: 呐喊, 小王子三部曲, 撒哈拉的故事, 天龙八部, 失踪的孩子, 卡拉马佐夫兄弟, 新海诚套装, 杀死一只知更鸟, 你不可错过的32部欧美文学不朽名作, 明朝那些事儿.
+
 ## Transferable Craft Patterns
 
-### Sociological Worldbuilding
+### Satire, Social Rooms, And Relationship Traps
 
-Use `乡土中国` and `钱穆国学作品集` as non-fiction structure sources rather than plot sources.
+Use `围城` as a case for turning conversation, status anxiety, marriage pressure, academic circles, and social performance into plot friction.
 
 Transferable lessons:
 
-- Convert abstract institutions into everyday obligations, face, kinship, rank, ritual, land, tax, school, guild, office, or local custom.
-- Let rules appear through who can speak, who can decide, who owes whom, and who cannot leave.
-- Build a setting by mapping relation chains instead of dumping background.
-- In game-world or fantasy settings, make villages, sects, guilds, main cities, and noble houses operate through durable social rules rather than decorative names.
+- Social comedy becomes useful to web fiction when every joke changes reputation, romantic tension, access, or self-image.
+- A relationship trap works best when the character wants both freedom and recognition, then discovers each option carries a social cost.
+- Irony should reveal contradiction through action and dialogue rather than stopping the chapter for author commentary.
 
 Best used for:
 
-- worldbuilding
-- faction design
-- village / clan / sect / guild settings
-- institutional pressure
-- historical or game-world logic
+-都市、职场、学院、家族饭局、门派议事、贵族沙龙
+- relationship reversals
+- de-AI polishing through sharper social observation
 
 Avoid:
 
-- turning non-fiction concepts into textbook exposition
-- using sociology as author lecture
-- claiming these are fiction plot templates
+- imitating highly distinctive aphoristic style
+- slowing commercial pacing with pure cleverness
+- letting satire replace stakes
 
-### Alienation And Social Judgment
+### Ordinary-Person Long-Serial Realism
 
-Use `局外人`, `彷徨`, and `野草` for protagonists who do not fit the surrounding moral language.
-
-Transferable lessons:
-
-- A protagonist can be pressured by other people's demand for the "correct" emotion, not only by physical danger.
-- Social judgment becomes dramatic when institutions, crowds, relatives, and witnesses all interpret the same action differently.
-- Hesitation can become plot pressure when delay changes status, reputation, relationship, or survival.
-- Symbolic images work best when attached to a character's concrete fear, shame, desire, or blocked action.
-
-Best used for:
-
-- outsider protagonists
-- moral pressure
-- trial / public opinion arcs
-- social realism
-- psychological compression
-- de-AI polishing for restrained emotional prose
-
-Avoid:
-
-- making the protagonist passive for too long in a commercial opening
-- replacing plot movement with abstract alienation
-- imitating dense symbolic prose in high-velocity web-novel chapters
-
-### Place, Body, And Survival Motifs
-
-Use `我与地坛` and `许三观卖血记` for repeated concrete anchors that gain emotional weight.
+Use `平凡的世界`, `四世同堂`, `活着`, `许三观卖血记`, and `白鹿原` for long-form pressure built from work, family, dignity, poverty, era change, and local order.
 
 Transferable lessons:
 
-- A place can become a memory engine when the character returns to it in different states.
-- Repeated survival actions become stronger when each repetition changes family status, dignity, debt, or relationship.
-- Body costs are more powerful when connected to ordinary needs: food, medical bills, children's futures, work, shame, and care.
-- Tragicomic rhythm lets hardship remain readable without flattening pain into misery.
+- Ordinary protagonists stay compelling when every small gain changes family standing, debt, love, work, or future possibility.
+- Long serial arcs need repeatable pressure engines: job, land, exam, marriage, illness, migration, debt, local power, public shame, and hope.
+- Hardship should not be a decorative suffering label; it must alter choices, relationships, resources, and self-respect.
 
 Best used for:
 
-- repeated motif design
+- long-form realistic arcs
+- low-status protagonist growth
 - family pressure
-- survival stakes
-- emotionally grounded chapter arcs
-- ordinary-detail payoff
+- village-city movement
+- slow-burn emotional payoff
 
 Avoid:
 
-- using suffering as a cheap tool for protagonist growth
-- repeating a motif without changing its meaning
-- over-explaining the emotion that the repeated detail already carries
+- flattening realism into misery
+- writing passive endurance without decisions
+- using era background as encyclopedia exposition
 
-### Land-Clan Epic Structure
+### Memory, Childhood, Place, And Gentle Loss
 
-Use `白鹿原` as a model for turning land, family, gender, inheritance, local politics, and era change into a long conflict system.
+Use `城南旧事`, `我与地坛`, `撒哈拉的故事`, and `小王子三部曲` for memory-led narration where place, object, travel, and limited viewpoint carry emotion.
 
 Transferable lessons:
 
-- A location can function as a living pressure system when every family, custom, conflict, marriage, betrayal, and death changes the local order.
-- Generational stories need repeatable conflict engines: land, name, lineage, school, ritual, faith, law, power, and desire.
-- The best village/territory epics make private desire and public order damage each other.
+- Child or memory viewpoint can make danger and loss stronger by letting readers understand more than the narrator can explain.
+- Place becomes dramatic when it stores repeated encounters, departures, returns, and changed meanings.
+- Gentle prose still needs scene pressure: someone must leave, hide, misunderstand, age, lose, or choose.
 
 Best used for:
 
-- long-form territory stories
-- clan/family webs
-- sect, village, guild, or city-state conflicts
-- historical pressure in fantasy or game worlds
+- reflective chapters
+- side-story emotional arcs
+- place-based motifs
+- childhood backstory
+- soft foreshadowing
 
 Avoid:
 
-- copying specific historical or regional packaging
-- letting genealogy replace scene conflict
-- treating village life as static background
+- nostalgia without present-story consequence
+- over-explaining what the image already implies
+- confusing softness with low conflict
 
-### Quest And Inner Transformation
+### Outsider Observation And Documentary Texture
 
-Use `悉达多` for inner-journey structure.
+Use `江城`, `乡土中国`, and `钱穆国学作品集` as structure sources for observing a place from language, custom, institution, and daily behavior.
 
 Transferable lessons:
 
-- Inner change becomes legible through staged encounters, failed teachers, wrong answers, worldly temptation, solitude, and return.
-- A protagonist's inner growth should be tested by action, not declared as enlightenment.
-- Philosophical material works best when every idea changes a choice, relationship, or cost.
+- An outsider viewpoint works when the narrator notices rules before fully understanding them, then keeps revising assumptions.
+- Documentary texture should be selected for plot use: who eats where, who speaks first, how favors travel, what officials can or cannot do.
+- Non-fiction sources should become world rules, not lectures.
 
 Best used for:
 
-- cultivation inner arcs
-- protagonist false-belief correction
-- mentor/teacher structures
-- spiritual or philosophical undertones
+-穿越、异世界、游戏世界、新城市、新宗门
+- faction customs
+- institutional worldbuilding
+- protagonist learning curves
 
 Avoid:
 
-- sermon chapters
-- sudden enlightenment without prior failure
-- replacing conflict with abstract realization
+- turning research notes into textbook blocks
+- exoticizing local life
+- replacing conflict with observation
+
+### Revenge Epic And Delayed Payoff
+
+Use `基督山伯爵` as a macro-structure case for identity concealment, resource accumulation, punishment design, and delayed justice.
+
+Transferable lessons:
+
+- Revenge爽感 depends on early injustice, later competence, precise target hierarchy, and payoff that answers the original wound.
+- Delayed payoff needs visible preparation: allies, wealth, information, disguise, timing, enemy weakness, and moral cost.
+- The protagonist's new identity should change access, leverage, and temptation, not merely provide a cool name.
+
+Best used for:
+
+-爽文 opening promises
+- comeback arcs
+- enemy-web design
+- secret identity
+- long revenge progression
+
+Avoid:
+
+- payoff without setup
+- making all enemies equally foolish
+- copying specific revenge schemes
+- forgetting the emotional cost of revenge
+
+### Institutional And Political Pressure
+
+Use `万历十五年`, `三国演义`, `钱穆国学作品集`, `乡土中国`, and `白鹿原` for making power systems legible.
+
+Transferable lessons:
+
+- Political drama improves when each faction has resources, constraints, rituals, information channels, public claims, and private fears.
+- A system can defeat capable individuals if offices, budgets, law, hierarchy, logistics, and face all push against them.
+- Strategy scenes need visible tradeoffs: time, troops, food, legitimacy, loyalty, terrain, weather, reputation, and betrayal risk.
+
+Best used for:
+
+- court politics
+- sect/faction games
+- guild systems
+- war arcs
+- kingdom or game-world governance
+
+Avoid:
+
+- faction names without incentives
+- strategy solved by omniscient narration
+- historical allusion with no story function
+
+### Household Ecology And Ensemble Decline
+
+Use `红楼梦` as a case for household-level ecology: rooms, servants, relatives, money, poetry, ritual, desire, jealousy, illness, favor, and decline.
+
+Transferable lessons:
+
+- Ensemble casts become readable when each character owns a role, desire, vulnerability, speech mode, relationship lane, and conflict use.
+- Foreshadowing is stronger when repeated motifs, objects, jokes, names, dreams, and rituals quietly change emotional temperature.
+- A large household, sect, academy, guild, or noble house should feel like an organism with money flow, service labor, gossip, rules, and decay.
+
+Best used for:
+
+- large-cast management
+- family/sect/noble-house stories
+- slow tragedy
+- symbolic motif systems
+- hidden decline under surface prosperity
+
+Avoid:
+
+- copying specific character arrangements
+- letting symbolism obscure scene goals
+- introducing more names than the reader can emotionally track
+
+### Romance Across Time And Obsession
+
+Use `霍乱时期的爱情`, `飘`, `失踪的孩子`, and selected New Wave / filmic romance cases for desire that mutates across years.
+
+Transferable lessons:
+
+- A long romance arc needs changing circumstances, not just repeated longing: class, marriage, distance, aging, pride, memory, and self-deception.
+- Obsession is more readable when the story distinguishes devotion, fantasy, habit, possession, and genuine care.
+- Time can deepen romance when each reunion proves what has changed and what has not.
+
+Best used for:
+
+- long romance lines
+- missed-chance arcs
+- emotionally unreliable desire
+- aging and memory
+
+Avoid:
+
+- romanticizing harm without consequence
+- repeating separation without new pressure
+- treating obsession as automatic nobility
+
+### Faction Strategy And Heroic Set Pieces
+
+Use `三国演义`, `天龙八部`, and large-scale fantasy/sci-fi cases such as `三体` for multi-front momentum.
+
+Transferable lessons:
+
+- Large casts require clear banners: faction aim, signature competence, emotional loyalty, public reputation, and recurring conflict method.
+- Heroic set pieces work when personal stakes, tactical stakes, and symbolic stakes converge in one scene.
+- Alliance and betrayal cycles should be driven by changing incentives, not random reversal.
+
+Best used for:
+
+- cultivation sect politics
+- guild wars
+- military fantasy
+- game-world campaigns
+- tournament-to-war escalation
+
+Avoid:
+
+- overloading readers with names before conflict
+- using strategy as summary instead of scene
+- making all victories depend on protagonist luck
 
 ### Fair-Play Mystery Architecture
 
-Use `阿加莎·克里斯蒂侦探小说大全集` as a puzzle-architecture source.
+Use `阿加莎·克里斯蒂侦探小说大全集`, `福尔摩斯探案全集`, and `白夜行` as mystery and suspense architecture sources.
 
 Transferable lessons:
 
 - Build a suspect web where each person has motive, opportunity, concealment, and a plausible false trail.
 - Hide truth through fair clue placement, not by withholding all relevant facts.
-- Use social rooms, family gatherings, trains, hotels, estates, offices, or guild halls as closed pressure containers.
+- Use rooms, trains, hotels, estates, offices, guild halls, game instances, or family gatherings as closed pressure containers.
 - Misdirection should make readers form the wrong conclusion from real evidence.
 
 Best used for:
 
-- mystery and suspense units
-- investigation arcs
+- mystery units
 - clue economy
+- investigation arcs
 - closed-circle faction conflict
-- game-world quest mystery design
+- suspense side plots
 
 Avoid:
 
@@ -183,22 +304,36 @@ Avoid:
 
 | Writing Task | Best Case Sources | Practical Use |
 |---|---|---|
-| Worldbuilding | 乡土中国, 钱穆国学作品集, 白鹿原 | Turn background into rules, obligations, factions, local pressure, and social cost. |
-| Protagonist Design | 局外人, 彷徨, 悉达多 | Design alienation, hesitation, false beliefs, and staged self-recognition. |
-| Emotional Motifs | 我与地坛, 许三观卖血记, 野草 | Use repeated place/body/image details that change meaning over time. |
-| Long-Serial Conflict | 白鹿原, 乡土中国, 钱穆国学作品集 | Build territory, clan, institution, and generational pressure systems. |
-| Mystery Design | 阿加莎·克里斯蒂侦探小说大全集 | Build clue placement, suspect webs, closed settings, and fair misdirection. |
-| De-AI Polishing | 我与地坛, 局外人, 野草, 许三观卖血记 | Replace generic emotion with restrained action, place, body, image, and repeated detail. |
+| Worldbuilding | 乡土中国, 钱穆国学作品集, 万历十五年, 江城, 白鹿原 | Turn background into rules, obligations, factions, local pressure, institutions, and social costs. |
+| Protagonist Design | 局外人, 彷徨, 悉达多, 平凡的世界, 基督山伯爵 | Design alienation, hesitation, false beliefs, comeback desire, and staged self-recognition. |
+| 爽文 Payoff | 基督山伯爵, 三国演义, 天龙八部, 三体, 明朝那些事儿 | Build early injustice, visible preparation, rising leverage, enemy hierarchy, and satisfying reversals. |
+| Emotional Motifs | 我与地坛, 城南旧事, 许三观卖血记, 野草, 霍乱时期的爱情 | Use repeated place/body/object/image details that change meaning over time. |
+| Long-Serial Conflict | 平凡的世界, 四世同堂, 白鹿原, 红楼梦, 三国演义 | Build territory, household, clan, institution, faction, and generational pressure systems. |
+| Romance | 霍乱时期的爱情, 飘, 失踪的孩子, 新海诚套装 | Track desire through time, distance, pride, memory, social pressure, and changed identity. |
+| Mystery Design | 阿加莎·克里斯蒂侦探小说大全集, 福尔摩斯探案全集, 白夜行 | Build clue placement, suspect webs, closed settings, fair misdirection, and emotional consequences. |
+| De-AI Polishing | 围城, 我与地坛, 城南旧事, 局外人, 野草, 活着 | Replace generic emotion with restrained action, social observation, place, body, image, and repeated detail. |
+
+## Batch Addition Workflow
+
+When adding a new local batch:
+
+1. Count the full library and the new files before writing.
+2. Use file metadata for inventory; use EPUB metadata only when available and readable.
+3. Add a dated batch section with title, creator, language, file size, primary case value, and best-used-for tasks.
+4. Merge craft lessons into reusable pattern sections instead of creating isolated book reports.
+5. Update the AI Usage Map if the new batch improves a writing task category.
+6. Validate the skill structure after editing.
+7. Upload the repository and confirm the remote file changed.
 
 ## Integration Rules
 
 When adding this kind of batch to a skill:
 
-1. Record file count, extraction date, title, creator, language, file size, and parsing status.
+1. Record file count, extraction date, title, creator, language, file size, and parsing status when available.
 2. Separate fiction cases from non-fiction structure sources.
 3. Summarize by craft mechanism, not by plot or author biography.
 4. Add imitation risks for every highly distinctive source.
-5. Update the skill entry point so future agents know when to read the corpus-pattern reference.
+5. Update the skill entry point only if a new reference file is introduced or the current reference becomes undiscoverable.
 6. Validate that the skill still passes frontmatter and metadata checks.
 
 ## Quality Guardrails
@@ -217,3 +352,4 @@ Failure signs:
 - Every book is summarized as "classic literature" without task-specific use.
 - The skill tells agents to imitate prose style.
 - Mystery cases are reduced to copied tricks or solutions.
+- Newly added books are appended without changing the reusable craft map.
