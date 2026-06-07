@@ -29,7 +29,7 @@ Current observed batch sequence:
 | 平凡的世界 | 路遥 | zh | 1387025 | long-span ordinary-person growth under era and class pressure | long-serial realism, labor/ambition arcs, family and village-city contrast |
 | 城南旧事 | 林海音 | zh | 171812 | child-perspective memory and gentle loss | nostalgic narration, limited viewpoint, soft emotional foreshadowing |
 | 江城 | 彼得·海斯勒 | zh | 1537587 | outsider observation of place, language, and everyday social change | travel/settlement viewpoint, local detail gathering, documentary texture |
-| 基督山伯爵 | 大仲马 | zh | 1658904 | revenge epic, identity disguise, delayed payoff architecture |爽文 revenge arcs, resource accumulation, enemy-web payoff, identity reveals |
+| 基督山伯爵 | 大仲马 | zh | 1658904 | revenge epic, identity disguise, delayed payoff architecture | web-novel revenge arcs, resource accumulation, enemy-web payoff, identity reveals |
 | 万历十五年 | 黄仁宇 | zh | 8485601 | institutional history through representative figures and system failure | political worldbuilding, court/faction logic, macro-pressure behind personal choices |
 | 霍乱时期的爱情 | 加西亚·马尔克斯 | zh | 636646 | lifelong desire, emotional obsession, time-shaped romance | long romance arcs, desire persistence, aging, memory and distance |
 | 红楼梦 | 曹雪芹等 | zh | 3272755 | household ecology, desire networks, foreshadowing, decline structure | ensemble casts, family-house systems, symbolic motifs, long-form tragedy |
@@ -73,7 +73,7 @@ Transferable lessons:
 
 Best used for:
 
--都市、职场、学院、家族饭局、门派议事、贵族沙龙
+- 都市、职场、学院、家族饭局、门派议事、贵族沙龙
 - relationship reversals
 - de-AI polishing through sharper social observation
 
@@ -143,7 +143,7 @@ Transferable lessons:
 
 Best used for:
 
--穿越、异世界、游戏世界、新城市、新宗门
+- 穿越、异世界、游戏世界、新城市、新宗门
 - faction customs
 - institutional worldbuilding
 - protagonist learning curves
@@ -160,13 +160,13 @@ Use `基督山伯爵` as a macro-structure case for identity concealment, resour
 
 Transferable lessons:
 
-- Revenge爽感 depends on early injustice, later competence, precise target hierarchy, and payoff that answers the original wound.
+- Web-novel revenge satisfaction depends on early injustice, later competence, precise target hierarchy, and payoff that answers the original wound.
 - Delayed payoff needs visible preparation: allies, wealth, information, disguise, timing, enemy weakness, and moral cost.
 - The protagonist's new identity should change access, leverage, and temptation, not merely provide a cool name.
 
 Best used for:
 
--爽文 opening promises
+- Web-novel revenge opening promises
 - comeback arcs
 - enemy-web design
 - secret identity
