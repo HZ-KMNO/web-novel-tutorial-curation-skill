@@ -8,9 +8,9 @@ This file is a corpus-pattern layer, not a raw archive. It records metadata-leve
 
 Source type: excellent-novel / finished-book case library.
 
-Latest observed local batch: 2026-06-07.
+Latest observed local batch: 2026-06-08.
 
-Observed library size after this batch: 40 EPUB files.
+Observed library size after this batch: 50 EPUB files.
 
 New batch size: 10 EPUB files.
 
@@ -20,6 +20,22 @@ Current observed batch sequence:
 - 2026-06-05: 10 EPUB files.
 - 2026-06-06: 10 EPUB files.
 - 2026-06-07: 10 EPUB files.
+- 2026-06-08: 10 EPUB files.
+
+## 2026-06-08 Added Case Batch
+
+| Title | Creator | Language | Size | Primary Case Value | Best Used For |
+|---|---|---|---:|---|---|
+| 冰与火之歌 1-5 卷 | George R.R. Martin | zh-cn | 13267654 | multi-POV faction fantasy, family banners, political consequence chains | multi-viewpoint serials, faction pressure, chapter-end reversals, morally costly choices |
+| 托尔金中洲三部曲 | J.R.R. Tolkien | zh | 13534911 | mythic worldbuilding, language/history depth, quest gravity | game-world architecture, races/lands/lore systems, mythic stakes, journey structure |
+| 安徒生童话 | Hans Christian Andersen | zh | 9616325 | fairy-tale compression, symbolic objects, innocence and cruelty | short emotional parables, object-driven scenes, children's-view danger, bittersweet endings |
+| 台北人 | 白先勇 | zh | 334286 | exile memory, old identity in new rooms, short-story ensemble | memory scenes, displaced characters, social-detail atmosphere, restrained loss |
+| 霸王别姬 | 李碧华 | zh-CN | 281271 | performance identity, gender/role dislocation, stage-reality mirroring | identity fracture, obsession, theatre/metafiction scenes, role-as-fate arcs |
+| 银河帝国：基地七部曲 | Isaac Asimov | zh | 3185875 | civilizational systems, crisis nodes, institution-scale sci-fi | macro history, system logic, prophecy/prediction limits, idea-driven arcs |
+| 半生缘 | 张爱玲 | zh | 420191 | missed relationship, social injury, intimate emotional misalignment | long romance wounds, family pressure, restrained regret, ordinary tragedy |
+| 正红旗下 | 老舍 | zh | 168546 | everyday social custom, fading household order, language-shaped community | social texture, family/ethnic custom, declining class systems, lived detail |
+| 骆驼祥子 | 老舍 | zh-CN | 4574940 | ordinary-person decline under city pressure, desire erosion | anti-growth arcs, urban survival pressure, dignity collapse, money/body stakes |
+| 大明王朝1566 | 刘和平 | zh-CN | 4202472 | institutional power chess, fiscal procedure, dialogue as political action | court politics, bureaucracy, responsibility chains, procedural conflict, high-pressure dialogue |
 
 ## 2026-06-07 Added Case Batch
 
@@ -60,6 +76,147 @@ The first two local batches already establish the base case library. They should
 2026-06-05 observed examples include: 呐喊, 小王子三部曲, 撒哈拉的故事, 天龙八部, 失踪的孩子, 卡拉马佐夫兄弟, 新海诚套装, 杀死一只知更鸟, 你不可错过的32部欧美文学不朽名作, 明朝那些事儿.
 
 ## Transferable Craft Patterns
+
+### Multi-POV Faction And Political Fantasy
+
+Use `冰与火之歌` as a structure source for multi-viewpoint serial fiction where every family, court, army, city, and private desire changes the public situation.
+
+Transferable lessons:
+
+- A POV chapter should not merely show a different camera angle; it should expose a different fear, loyalty, blind spot, and cost calculation.
+- Faction drama becomes legible when each banner has resources, wounds, public claims, private shame, and recognizable decision habits.
+- Chapter hooks work best when a local choice changes the larger map: alliance, rumor, succession, hostage, legitimacy, route, food, or trust.
+
+Best used for:
+
+- game-world kingdoms, guilds, camps, noble houses, sects, city factions
+- morally costly choices
+- multi-POV chapter planning
+- political fantasy and survival intrigue
+
+Avoid:
+
+- copying houses, family structures, signature shocks, or brutal set pieces
+- using many POVs before each has a clear desire and information boundary
+- mistaking darkness for depth
+
+### Mythic Worldbuilding And Quest Gravity
+
+Use `托尔金中洲三部曲` as a source for building worlds that feel older than the plot without burying the reader in encyclopedic lore.
+
+Transferable lessons:
+
+- A place feels deep when names, songs, ruins, maps, lineages, languages, roads, and old wars affect present choices.
+- A quest gains gravity when the object pursued or carried changes moral pressure, companionship, fatigue, temptation, and the meaning of home.
+- Mythic prologues should become usable constraints: who remembers, who denies, who inherits debt, who fears an old power returning.
+
+Best used for:
+
+- game-world architecture
+- race/faction history
+- legendary items and old wars
+- journey teams and homeland stakes
+
+Avoid:
+
+- front-loading lore before the reader has a person to care about
+- imitating archaic or translated diction
+- treating maps and names as substitutes for conflict
+
+### Fairy-Tale Symbolic Compression
+
+Use `安徒生童话` for short-form symbolic pressure: one object, wish, rule, transformation, or innocent misunderstanding can carry a whole emotional argument.
+
+Transferable lessons:
+
+- Fairy-tale logic is powerful when cruelty and tenderness are both concrete: shoes, mirrors, voices, snow, toys, doors, hunger, cold, and gifts.
+- A simple premise can hurt if the character's wish is pure but the world answers it with cost.
+- The ending does not need to explain the lesson; the image should leave the reader with the emotional verdict.
+
+Best used for:
+
+- side stories
+- symbolic objects
+- short emotional arcs
+- childhood, innocence, cruelty, wish and price structures
+
+Avoid:
+
+- turning symbols into direct moral lectures
+- copying famous tales or transformations
+- making simplicity mean thin conflict
+
+### Exile Memory And Performance Identity
+
+Use `台北人`, `霸王别姬`, `半生缘`, and `正红旗下` for characters whose present behavior is shaped by lost identity, role performance, old social order, and unsaid regret.
+
+Transferable lessons:
+
+- Memory becomes dramatic when a room, song, costume, greeting, meal, accent, or old acquaintance makes the present feel like a failed continuation of the past.
+- Performance identity works when the role gives the character protection and a prison at the same time.
+- Missed love and social injury are strongest when the characters are not simply foolish; family, shame, money, reputation, and timing all help make the wound.
+
+Best used for:
+
+- relationship regret
+- identity performance
+- displaced characters
+- stage/role motifs
+- old-order decline
+
+Avoid:
+
+- imitating era-specific diction or regional cadence as default prose
+- reducing performance identity to costume aesthetics
+- using nostalgia without present-story consequence
+
+### Civilizational Systems And Institutional Drama
+
+Use `银河帝国` and `大明王朝1566` as system-scale cases: history, prediction, bureaucracy, finance, procedure, court speech, and responsibility chains become plot engines.
+
+Transferable lessons:
+
+- A civilization-scale story needs crisis nodes: each episode should test one assumption in the system, not merely describe a large background.
+- Procedure is conflict when signatures, ledgers, quotas, authority, reports, privacy, logistics, and public blame change what characters can do.
+- Dialogue in political scenes should be action: testing loyalty, shifting responsibility, buying time, forcing someone to take a public position.
+
+Best used for:
+
+- institutional sci-fi
+- court politics
+- guild/company/government systems
+- procedural obstacles
+- high-pressure dialogue scenes
+
+Avoid:
+
+- replacing scenes with lectures about systems
+- letting prediction or strategy become author omniscience
+- making institutions act like a single villain with no internal constraints
+
+### Ordinary-Person Decline Under City Pressure
+
+Use `骆驼祥子` together with `平凡的世界`, `四世同堂`, and `许三观卖血记` to study how an ordinary person's desire can be built, tested, and finally eroded by repeated urban and economic pressure.
+
+Transferable lessons:
+
+- A fall arc needs a clear first wish, visible effort, repeated theft or erosion of hope, and a social world that makes recovery harder each time.
+- Money, body, work tools, rent, debt, humiliation, illness, weather, and social contempt can all be plot pressure.
+- Decline is more affecting when the character once had discipline, pride, and an understandable plan.
+
+Best used for:
+
+- ordinary-person protagonists
+- anti-growth arcs
+- urban survival stories
+- money/body stakes
+- social pressure in realistic or genre fiction
+
+Avoid:
+
+- flattening hardship into misery display
+- making the protagonist passive too early
+- copying old-city speech or period texture without conversion
 
 ### Satire, Social Rooms, And Relationship Traps
 
@@ -304,14 +461,16 @@ Avoid:
 
 | Writing Task | Best Case Sources | Practical Use |
 |---|---|---|
-| Worldbuilding | 乡土中国, 钱穆国学作品集, 万历十五年, 江城, 白鹿原 | Turn background into rules, obligations, factions, local pressure, institutions, and social costs. |
-| Protagonist Design | 局外人, 彷徨, 悉达多, 平凡的世界, 基督山伯爵 | Design alienation, hesitation, false beliefs, comeback desire, and staged self-recognition. |
+| Worldbuilding | 托尔金中洲三部曲, 乡土中国, 钱穆国学作品集, 万历十五年, 江城, 白鹿原 | Turn background into rules, obligations, maps, memory, factions, local pressure, institutions, and social costs. |
+| Game-World Architecture | 托尔金中洲三部曲, 银河帝国, 冰与火之歌, 哈利波特全集, 三体 | Build maps, old wars, playable institutions, faction incentives, crisis nodes, and lore that changes action. |
+| Protagonist Design | 骆驼祥子, 局外人, 彷徨, 悉达多, 平凡的世界, 基督山伯爵 | Design alienation, erosion, hesitation, false beliefs, comeback desire, and staged self-recognition. |
 | 爽文 Payoff | 基督山伯爵, 三国演义, 天龙八部, 三体, 明朝那些事儿 | Build early injustice, visible preparation, rising leverage, enemy hierarchy, and satisfying reversals. |
-| Emotional Motifs | 我与地坛, 城南旧事, 许三观卖血记, 野草, 霍乱时期的爱情 | Use repeated place/body/object/image details that change meaning over time. |
-| Long-Serial Conflict | 平凡的世界, 四世同堂, 白鹿原, 红楼梦, 三国演义 | Build territory, household, clan, institution, faction, and generational pressure systems. |
-| Romance | 霍乱时期的爱情, 飘, 失踪的孩子, 新海诚套装 | Track desire through time, distance, pride, memory, social pressure, and changed identity. |
+| Emotional Motifs | 安徒生童话, 台北人, 霸王别姬, 半生缘, 我与地坛, 城南旧事, 许三观卖血记, 野草, 霍乱时期的爱情 | Use repeated place/body/object/image/role details that change meaning over time. |
+| Long-Serial Conflict | 冰与火之歌, 银河帝国, 大明王朝1566, 平凡的世界, 四世同堂, 白鹿原, 红楼梦, 三国演义 | Build territory, household, clan, institution, faction, civilization, and generational pressure systems. |
+| Romance | 半生缘, 霍乱时期的爱情, 飘, 失踪的孩子, 新海诚套装 | Track desire through time, distance, pride, memory, social pressure, family injury, and changed identity. |
 | Mystery Design | 阿加莎·克里斯蒂侦探小说大全集, 福尔摩斯探案全集, 白夜行 | Build clue placement, suspect webs, closed settings, fair misdirection, and emotional consequences. |
-| De-AI Polishing | 围城, 我与地坛, 城南旧事, 局外人, 野草, 活着 | Replace generic emotion with restrained action, social observation, place, body, image, and repeated detail. |
+| Institutional Dialogue | 大明王朝1566, 万历十五年, 银河帝国, 三国演义, 围城 | Make dialogue change responsibility, access, reputation, timing, and public position. |
+| De-AI Polishing | 台北人, 霸王别姬, 半生缘, 骆驼祥子, 围城, 我与地坛, 城南旧事, 局外人, 野草, 活着 | Replace generic emotion with restrained action, social observation, place, body, image, role, and repeated detail. |
 
 ## Batch Addition Workflow
 
