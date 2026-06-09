@@ -8,9 +8,9 @@ This file is a corpus-pattern layer, not a raw archive. It records metadata-leve
 
 Source type: excellent-novel / finished-book case library.
 
-Latest observed local batch: 2026-06-08.
+Latest observed local batch: 2026-06-09.
 
-Observed library size after this batch: 50 EPUB files.
+Observed library size after this batch: 60 EPUB files.
 
 New batch size: 10 EPUB files.
 
@@ -21,6 +21,22 @@ Current observed batch sequence:
 - 2026-06-06: 10 EPUB files.
 - 2026-06-07: 10 EPUB files.
 - 2026-06-08: 10 EPUB files.
+- 2026-06-09: 10 EPUB files.
+
+## 2026-06-09 Added Case Batch
+
+| Title | Creator | Language | Size | Primary Case Value | Best Used For |
+|---|---|---|---:|---|---|
+| 刘震云全集作品集典藏版 | 刘震云 | zh | 3074037 | contemporary oral narration, social absurdity, bureaucracy and hearsay chains | modern social scenes, errands, face-saving, process friction, dialogue self-defense |
+| 额尔古纳河右岸 | 迟子建 | zh-CN | 306933 | land/river/season memory, ethnic community, migration and mortality | place-based worldbuilding, clan/tribe memory, ecological pressure, slow epic texture |
+| 王小波作品大全集 | 王小波 | zh | 5170107 | narrator intelligence, irony, rational rebellion, self-defense voice | first-person judgment, comic reflection, intellectual protagonists, anti-authoritarian voice control |
+| 呼兰河传 | 萧红 | zh | 228620 | town ecology, childhood viewpoint, neighborhood judgment, soft cruelty | local-community pressure, memory scenes, child-limited observation, place as collective character |
+| 棋王 | 阿城 | zh | 840715 | obsession, craft/game as inner order, scarcity and spiritual focus | eccentric specialists, game/craft protagonists, hunger vs focus, compact character engines |
+| 鲁迅全集 | 鲁迅 | zh | 12422047 | spectator psychology, oppressive common sense, short-scene irony | crowd pressure, public judgment, social horror, sharp endings, discourse oppression |
+| 恶意 | 东野圭吾 | zh | 213926 | motive reversal, testimony versions, document-form misdirection | mystery motive design, unreliable narration, evidence forms, suspect psychology |
+| 水浒传 | 施耐庵 | zh | 2105924 | single-character highlight recruitment, forced-outlaw ensemble, nickname memory | guild/team recruitment, anti-system groups, chapter hooks, ensemble convergence |
+| 一个叫欧维的男人决定去死 | Fredrik Backman | zh | 309524 | unlikeable protagonist rules, wound reveal, neighbor intrusion warmth | difficult protagonists, rule-based characterization, healing arcs, community disruption |
+| 金庸作品全集 | 金庸 | zh | 130362816 | long-serial wuxia architecture, identity hooks, sect systems, upgrade access loops | web-novel growth arcs, faction maps, reward design, emotional duty dilemmas, serialized payoff |
 
 ## 2026-06-08 Added Case Batch
 
@@ -76,6 +92,121 @@ The first two local batches already establish the base case library. They should
 2026-06-05 observed examples include: 呐喊, 小王子三部曲, 撒哈拉的故事, 天龙八部, 失踪的孩子, 卡拉马佐夫兄弟, 新海诚套装, 杀死一只知更鸟, 你不可错过的32部欧美文学不朽名作, 明朝那些事儿.
 
 ## Transferable Craft Patterns
+
+### Contemporary Social Absurdity And Hearsay Chains
+
+Use `刘震云全集作品集典藏版`, `王小波作品大全集`, and `鲁迅全集` to understand how ordinary speech, procedure, self-defense, crowd judgment, and social absurdity can become plot engines.
+
+Transferable lessons:
+
+- A small errand can become a chapter engine if each person protects face, job, reputation, convenience, or responsibility.
+- Hearsay should mutate through motive: every retelling adds bias, omission, fear, vanity, or self-protection.
+- Comic narration is useful only when it changes the reader's judgment of people, institutions, or power.
+
+Best used for:
+
+- modern urban/county/town scenes
+- office, platform, school, hospital, neighborhood, and family procedures
+- dialogue subtext
+- social pressure and public opinion
+
+Avoid:
+
+- copying strong personal prose voices
+- letting colloquial narration become loose chatter
+- writing satire that does not change stakes
+
+### Motive Reversal And Testimony Versions
+
+Use `恶意` together with mystery sources such as `阿加莎·克里斯蒂侦探小说大全集`, `福尔摩斯探案全集`, and `白夜行` for suspense where the deepest reveal is not just who acted, but why the explanation was shaped that way.
+
+Transferable lessons:
+
+- Separate fact truth, public motive, false motive, real motive, and narrator bias.
+- A witness statement should reveal the witness as much as the subject.
+- Document forms such as reports, logs, letters, records, posts, screenshots, and transcripts create trust and therefore can mislead fairly.
+
+Best used for:
+
+- mystery arcs
+- psychological suspense
+- unreliable narration
+- evidence files and testimony scenes
+
+Avoid:
+
+- solving through sudden new information
+- making every testimony obviously false
+- copying case shells or trick endings
+
+### Long-Serial Wuxia Upgrade Architecture
+
+Use `金庸作品全集`, `水浒传`, `天龙八部`, and large ensemble cases for durable serial structures.
+
+Transferable lessons:
+
+- Rewards should change access: new map, teacher, faction, rule, debt, enemy tier, or moral choice.
+- Identity hooks work when they alter relationships and faction positions, not when they are only labels.
+- Ensemble members become memorable when each enters with a pre-entry conflict, signature competence, and reason to join.
+
+Best used for:
+
+- cultivation, game, wuxia, fantasy, guild, sect, and team stories
+- upgrade loops
+- identity reveals
+- team recruitment and large casts
+
+Avoid:
+
+- imitating wuxia diction, chapter-novel syntax, or famous adventures
+- treating upgrades as numbers only
+- introducing team members without their own pressure
+
+### Place Memory And Local Community Pressure
+
+Use `额尔古纳河右岸`, `呼兰河传`, `江城`, `白鹿原`, and `城南旧事` for making place act on character.
+
+Transferable lessons:
+
+- Place becomes dramatic when geography, season, route, custom, ritual, public judgment, and memory change choices.
+- A town, clan, tribe, workplace, school, or neighborhood can function as a collective character.
+- Limited or childlike observation can make cruelty stronger by letting readers infer more than the viewpoint explains.
+
+Best used for:
+
+- local communities
+- villages, towns, tribes, schools, companies, neighborhoods
+- memory arcs
+- slow pressure and atmosphere
+
+Avoid:
+
+- treating place as scenic description only
+- copying ethnic, regional, or period surfaces
+- slowing chapters without a present conflict
+
+### Obsession, Rules, And Difficult Protagonists
+
+Use `棋王` and `一个叫欧维的男人决定去死` for characters who are hard to approach because they live by a private rule, craft, wound, or order.
+
+Transferable lessons:
+
+- A difficult protagonist becomes readable when the behavior rule is stable before the wound is explained.
+- Obsession should create competence and social cost at the same time.
+- Healing or change works when other people repeatedly interrupt the rule, not when the narrator explains the wound early.
+
+Best used for:
+
+- eccentric specialists
+- players, craftsmen, detectives, coders, cultivators, rule-bound loners
+- reluctant-community arcs
+- emotional reveal pacing
+
+Avoid:
+
+- making eccentricity decorative
+- revealing the wound before behavior earns curiosity
+- confusing unlikeable with unreadable
 
 ### Multi-POV Faction And Political Fantasy
 
@@ -461,16 +592,18 @@ Avoid:
 
 | Writing Task | Best Case Sources | Practical Use |
 |---|---|---|
-| Worldbuilding | 托尔金中洲三部曲, 乡土中国, 钱穆国学作品集, 万历十五年, 江城, 白鹿原 | Turn background into rules, obligations, maps, memory, factions, local pressure, institutions, and social costs. |
+| Worldbuilding | 托尔金中洲三部曲, 额尔古纳河右岸, 呼兰河传, 乡土中国, 钱穆国学作品集, 万历十五年, 江城, 白鹿原 | Turn background into rules, obligations, maps, memory, factions, local pressure, institutions, seasons, customs, and social costs. |
 | Game-World Architecture | 托尔金中洲三部曲, 银河帝国, 冰与火之歌, 哈利波特全集, 三体 | Build maps, old wars, playable institutions, faction incentives, crisis nodes, and lore that changes action. |
-| Protagonist Design | 骆驼祥子, 局外人, 彷徨, 悉达多, 平凡的世界, 基督山伯爵 | Design alienation, erosion, hesitation, false beliefs, comeback desire, and staged self-recognition. |
+| Protagonist Design | 棋王, 一个叫欧维的男人决定去死, 骆驼祥子, 局外人, 彷徨, 悉达多, 平凡的世界, 基督山伯爵 | Design obsession, difficult rules, alienation, erosion, hesitation, false beliefs, comeback desire, and staged self-recognition. |
 | 爽文 Payoff | 基督山伯爵, 三国演义, 天龙八部, 三体, 明朝那些事儿 | Build early injustice, visible preparation, rising leverage, enemy hierarchy, and satisfying reversals. |
-| Emotional Motifs | 安徒生童话, 台北人, 霸王别姬, 半生缘, 我与地坛, 城南旧事, 许三观卖血记, 野草, 霍乱时期的爱情 | Use repeated place/body/object/image/role details that change meaning over time. |
-| Long-Serial Conflict | 冰与火之歌, 银河帝国, 大明王朝1566, 平凡的世界, 四世同堂, 白鹿原, 红楼梦, 三国演义 | Build territory, household, clan, institution, faction, civilization, and generational pressure systems. |
+| Emotional Motifs | 额尔古纳河右岸, 呼兰河传, 安徒生童话, 台北人, 霸王别姬, 半生缘, 我与地坛, 城南旧事, 许三观卖血记, 野草, 霍乱时期的爱情 | Use repeated place/body/object/image/role/season details that change meaning over time. |
+| Long-Serial Conflict | 金庸作品全集, 水浒传, 冰与火之歌, 银河帝国, 大明王朝1566, 平凡的世界, 四世同堂, 白鹿原, 红楼梦, 三国演义 | Build territory, household, clan, institution, faction, civilization, team, sect, and generational pressure systems. |
 | Romance | 半生缘, 霍乱时期的爱情, 飘, 失踪的孩子, 新海诚套装 | Track desire through time, distance, pride, memory, social pressure, family injury, and changed identity. |
-| Mystery Design | 阿加莎·克里斯蒂侦探小说大全集, 福尔摩斯探案全集, 白夜行 | Build clue placement, suspect webs, closed settings, fair misdirection, and emotional consequences. |
+| Mystery Design | 恶意, 阿加莎·克里斯蒂侦探小说大全集, 福尔摩斯探案全集, 白夜行 | Build clue placement, suspect webs, testimony versions, motive reversal, closed settings, fair misdirection, and emotional consequences. |
 | Institutional Dialogue | 大明王朝1566, 万历十五年, 银河帝国, 三国演义, 围城 | Make dialogue change responsibility, access, reputation, timing, and public position. |
-| De-AI Polishing | 台北人, 霸王别姬, 半生缘, 骆驼祥子, 围城, 我与地坛, 城南旧事, 局外人, 野草, 活着 | Replace generic emotion with restrained action, social observation, place, body, image, role, and repeated detail. |
+| Social Dialogue | 刘震云全集作品集典藏版, 王小波作品大全集, 围城, 鲁迅全集 | Make speech carry self-defense, face-saving, irony, crowd pressure, evasion, and social position. |
+| Upgrade And Team Design | 金庸作品全集, 水浒传, 天龙八部, 哈利波特全集 | Make rewards change access, maps, teachers, factions, duties, team membership, and moral pressure. |
+| De-AI Polishing | 刘震云全集作品集典藏版, 台北人, 霸王别姬, 半生缘, 骆驼祥子, 围城, 我与地坛, 城南旧事, 局外人, 野草, 活着 | Replace generic emotion with restrained action, social observation, place, body, image, role, oral pressure, and repeated detail. |
 
 ## Batch Addition Workflow
 
