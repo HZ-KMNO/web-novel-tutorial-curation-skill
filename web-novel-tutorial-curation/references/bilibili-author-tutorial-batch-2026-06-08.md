@@ -108,12 +108,15 @@ Transferable lessons:
 - Reusable "story boxes" include apprenticeship, acquiring power, first encounter, joining a group, solving a local problem, obtaining a resource, exposing a secret, or escaping a threat.
 - Reading should be purposeful. A writer should collect many variants of the same story box from different novels, then learn how to recombine them.
 - Self-knowledge matters. A writer should use methods suited to current ability instead of pretending to write a once-in-a-century masterpiece immediately.
+- Classic Chinese works and high-level genre works can be used as craft training when read with a target: story-box variants, sentence rhythm, scene compression, dialogue force, and character entrance.
+- Deliberate imitation can be useful as private practice, especially short fanfic-style exercises, because it exposes the gap between the learner's current ability and a master's execution.
 
 AI usage:
 
 - Use this source when a user has an idea but no plot.
 - Build a goal ladder before drafting: big objective, current objective, local obstacle, required resource, scene action, reward, new problem.
 - Store story-box advice as a planning method, not as a copied scene library.
+- When curating classic-reading advice, separate mechanism from surface costume: extract how the scene works, not archaic diction, famous phrasing, or a recognizable author's voice.
 
 ## Reusable Extraction Rules
 
@@ -137,6 +140,7 @@ When adding future Bilibili author tutorials:
 | 100k-word outline feels loose | 470571321 | Design opening hook, midpoint reveal, target climax, and convergent burst lines. |
 | Daily scenes feel watery | 1373692742 | Add contrast, joke mechanics, expectation reversal, and relationship pressure. |
 | Fan fiction lacks freshness | 1373692742 | Choose a fresh cut-in point and write an independent story inside the known setting. |
+| Prose feels generic | 1092606875 | Read Chinese classics and strong genre works with a target: rhythm, dialogue, scene compression, and story-box variants. |
 
 ## Quality Guardrails
 
