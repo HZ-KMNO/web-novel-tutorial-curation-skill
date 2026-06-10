@@ -605,6 +605,28 @@ Avoid:
 | Upgrade And Team Design | 金庸作品全集, 水浒传, 天龙八部, 哈利波特全集 | Make rewards change access, maps, teachers, factions, duties, team membership, and moral pressure. |
 | De-AI Polishing | 刘震云全集作品集典藏版, 台北人, 霸王别姬, 半生缘, 骆驼祥子, 围城, 我与地坛, 城南旧事, 局外人, 野草, 活着 | Replace generic emotion with restrained action, social observation, place, body, image, role, oral pressure, and repeated detail. |
 
+## 2026-06-10 Traditional And Popular Narrative Batch
+
+Read `excellent-novel-case-batch-2026-06-10.md` for inventory and status details.
+
+New craft coverage:
+
+- **古龙作品全集**: character entrance, rumor-before-person, compressed dialogue, atmosphere, relationship pressure.
+- **三言二拍**: small-desire story boxes, misunderstanding escalation, gossip chains, social pressure, compact unit cases.
+- **封神演义**: faction war, artifact logic, destiny lists, mentor lines, long-form absorption of side characters.
+- **济公全传**: wandering helper, folk justice, unit rescue, public moral payoff.
+- **凡尔纳 / 大仲马 / 马克·吐温**: route adventure, staged revenge, satire, oral self-defense, and popular-story propulsion.
+
+AI usage additions:
+
+| Writing Task | New Case Sources | Practical Use |
+|---|---|---|
+| Character Entrance | 古龙作品全集, 济公全传, 封神演义 | Give important characters rumor, title, taboo, old debt, object, ability, and immediate pressure before explanation. |
+| Unit Case Design | 三言二拍, 济公全传 | Start from small desire, local injustice, rumor, misunderstanding, or public judgment. |
+| Eastern Fantasy Architecture | 封神演义, 中国古代小说名著插图典藏 | Build factions, named artifacts, destiny lists, mentor lines, and war escalation. |
+| Adventure Route | 凡尔纳经典作品套装, 大仲马集 | Use route goals, staged opponents, hidden identity, delayed payoff, and map pressure. |
+| Satire And Oral Pressure | 马克·吐温中短篇小说选, 三言二拍 | Turn social absurdity into self-defense, excuse, gossip, public judgment, and consequence. |
+
 ## Batch Addition Workflow
 
 When adding a new local batch:
