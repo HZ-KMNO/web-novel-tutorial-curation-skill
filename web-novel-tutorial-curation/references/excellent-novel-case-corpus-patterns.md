@@ -8,11 +8,11 @@ This file is a corpus-pattern layer, not a raw archive. It records metadata-leve
 
 Source type: excellent-novel / finished-book case library.
 
-Latest observed local batch: 2026-06-09.
+Latest observed local batch: 2026-06-10.
 
-Observed library size after this batch: 60 EPUB files.
+Observed library size after this batch: 68 EPUB files.
 
-New batch size: 10 EPUB files.
+Latest new batch size: 8 EPUB files.
 
 Current observed batch sequence:
 
@@ -22,6 +22,21 @@ Current observed batch sequence:
 - 2026-06-07: 10 EPUB files.
 - 2026-06-08: 10 EPUB files.
 - 2026-06-09: 10 EPUB files.
+- 2026-06-10: 8 EPUB files.
+
+2026-06-13 check: the local case folder still contains 68 files, matching the writing-guidance inventory. No additional excellent-novel files were detected in this run.
+
+## 2026-06-10 Added Case Batch
+
+See [excellent-novel-case-batch-2026-06-10.md](excellent-novel-case-batch-2026-06-10.md) for the full 8-file batch.
+
+State-5 mechanism conversion in that batch:
+
+- `古龙作品全集`: suspenseful character entrances, compressed dialogue, atmosphere, and relationship pressure; do not imitate signature short-line style.
+- `三言二拍`: small desire, misunderstanding escalation, gossip chains, social pressure, and compact story boxes; do not imitate classical storyteller diction.
+- `封神演义`: faction war, artifact logic, destiny list, long-form absorption of side characters, and Eastern fantasy architecture; do not imitate chapter-novel syntax or myth-shell packaging.
+
+Other cases in that batch are indexed for structural use: traditional story boxes, folk justice, translated adventure, long revenge, route goals, and satire.
 
 ## 2026-06-09 Added Case Batch
 
